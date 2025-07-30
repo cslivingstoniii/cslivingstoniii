@@ -1,16 +1,32 @@
-## Hi there 👋
+# Steve Livingston | AI Engineer · Software Leader · Product-Minded Technologist
 
-<!--
-**cslivingstoniii/cslivingstoniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a seasoned software engineer and product-minded technologist with deep roots in .NET (C#, Azure) and a growing specialization in AI and Machine Learning.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Postgraduate Certificate in AI/ML – UT Austin, McCombs School of Business  
+- 🎯 Actively pursuing Microsoft Certified: Azure AI Engineer Associate  
+- 🧠 Passionate about building intelligent systems that solve real-world problems  
+- 📈 Advocate for lifelong learning, curiosity, and innovation
+
+## 🛠️ What I Work On
+
+- AI/ML Projects (EDA, NLP, MLOps, CV, Predictive Analytics)
+- Cloud-Based Engineering (Azure Functions, DevOps, Microservices)
+- Enterprise Software & Data Pipelines (C#, SQL Server, SSIS, RabbitMQ)
+
+## 📌 Featured Project
+
+### [FoodHub Data Analysis](https://github.com/cslivingstoniii/aiml_ut_foodhub)
+Exploratory data analysis on NYC food delivery patterns using Python, pandas, matplotlib, and seaborn.  
+Framed as a business case, this project highlights customer behavior, restaurant performance, and delivery trends.
+
+## 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/cslivingston/)  
+- 🌐 [Hugging Face](https://huggingface.co/cslivingstoniii)  
+- 📧 cslivingstoniii@gmail.com
+
+---
+
+_“Code is craft. AI is curiosity. I'm here to build what’s next.”_
