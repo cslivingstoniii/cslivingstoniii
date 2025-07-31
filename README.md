@@ -15,7 +15,13 @@ Welcome to my GitHub! I'm a seasoned software engineer and product-minded techno
 - Cloud-Based Engineering (Azure Functions, DevOps, Microservices)
 - Enterprise Software & Data Pipelines (C#, SQL Server, SSIS, RabbitMQ)
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+### [EasyVisa](https://github.com/cslivingstoniii/aiml_ut_easyvisa)
+Machine learning project to predict U.S. visa application outcomes using decision trees, boosting, and sampling techniques. Demonstrates business-focused data science, model tuning, and fairness in classification.
+
+### [Personal Loan Campaign](https://github.com/cslivingstoniii/aiml_ut_loancampaign)
+Predictive modeling and clustering to identify potential loan customers using Python, scikit-learn, and data visualization techniques.
 
 ### [FoodHub Data Analysis](https://github.com/cslivingstoniii/aiml_ut_foodhub)
 Exploratory data analysis on NYC food delivery patterns using Python, pandas, matplotlib, and seaborn.  
