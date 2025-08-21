@@ -1,4 +1,4 @@
-# Steve Livingston | AI Engineer · Software Leader · Product-Minded Technologist
+# Steve Livingston | AI Engineer · Software Leader · Product-Minded Innovator
 
 Welcome to my GitHub! I'm a seasoned software engineer and product-minded technologist with deep roots in .NET (C#, Azure) and a growing specialization in AI and Machine Learning.
 
